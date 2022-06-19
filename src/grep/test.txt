@@ -1,0 +1,10 @@
+Hello world
+this is a simple task wich need to be done
+couple more Hello strings 
+some invisible characters
+
+
+some  !Hello!  skips
+
+
+and we are tottaly done
